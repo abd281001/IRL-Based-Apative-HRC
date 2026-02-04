@@ -1,0 +1,320 @@
+0
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (tomato A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (tomato B) 
+ Predicted: cut (tomato B) 
+
+Actual: move (tomato B to C) 
+ Predicted: move (tomato B to C) 
+
+Actual: move (onion A to B) 
+ Predicted: move (onion A to B) 
+
+Actual: cut (onion B) 
+ Predicted: cut (onion B) 
+
+Actual: move (onion B to C) 
+ Predicted: move (onion B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: turn_on (stove C) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None 
+
+
+
+
+1
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (tomato A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (tomato B) 
+ Predicted: cut (tomato B) 
+
+Actual: move (tomato B to C) 
+ Predicted: move (tomato B to C) 
+
+Actual: move (onion A to B) 
+ Predicted: move (onion A to B) 
+
+Actual: cut (onion B) 
+ Predicted: cut (onion B) 
+
+Actual: move (onion B to C) 
+ Predicted: move (onion B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: turn_on (stove C) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None 
+
+
+
+
+2
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (tomato A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (tomato B) 
+ Predicted: cut (tomato B) 
+
+Actual: move (tomato B to C) 
+ Predicted: move (tomato B to C) 
+
+Actual: move (onion A to B) 
+ Predicted: move (onion A to B) 
+
+Actual: cut (onion B) 
+ Predicted: cut (onion B) 
+
+Actual: move (onion B to C) 
+ Predicted: move (onion B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: turn_on (stove C) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None 
+
+
+
+
+3
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (onion A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (onion B) 
+ Predicted: cut (onion B) 
+
+Actual: move (onion B to C) 
+ Predicted: move (onion B to C) 
+
+Actual: move (tomato A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (tomato B) 
+ Predicted: cut (tomato B) 
+
+Actual: move (tomato B to C) 
+ Predicted: move (tomato B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: turn_on (stove C) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None 
+
+
+
+
+4
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (onion A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (onion B) 
+ Predicted: cut (onion B) 
+
+Actual: move (onion B to C) 
+ Predicted: move (onion B to C) 
+
+Actual: move (tomato A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (tomato B) 
+ Predicted: cut (tomato B) 
+
+Actual: move (tomato B to C) 
+ Predicted: move (tomato B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: turn_on (stove C) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None 
+
+
+
+
+5
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (mushroom A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (mushroom B) 
+ Predicted: cut (mushroom B) 
+
+Actual: move (mushroom B to C) 
+ Predicted: move (mushroom B to C) 
+
+Actual: move (onion A to B) 
+ Predicted: move (onion A to B) 
+
+Actual: cut (onion B) 
+ Predicted: cut (onion B) 
+
+Actual: move (onion B to C) 
+ Predicted: move (onion B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: turn_on (stove C) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None 
+
+
+
+
+6
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (mushroom A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (mushroom B) 
+ Predicted: cut (mushroom B) 
+
+Actual: move (mushroom B to C) 
+ Predicted: move (mushroom B to C) 
+
+Actual: move (onion A to B) 
+ Predicted: move (onion A to B) 
+
+Actual: cut (onion B) 
+ Predicted: cut (onion B) 
+
+Actual: move (onion B to C) 
+ Predicted: move (onion B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: turn_on (stove C) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None 
+
+
+
+
+7
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (tomato A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (tomato B) 
+ Predicted: cut (tomato B) 
+
+Actual: move (tomato B to C) 
+ Predicted: move (tomato B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: move (onion A to B) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None 
+
+
+
+
+8
+Actual: move (pot A to C) 
+ Predicted: move (pot A to C) 
+
+Actual: move (tomato A to B) 
+ Predicted: move (tomato A to B) 
+
+Actual: cut (tomato B) 
+ Predicted: cut (tomato B) 
+
+Actual: move (tomato B to C) 
+ Predicted: move (tomato B to C) 
+
+Actual: turn_on (stove C) 
+ Predicted: move (onion A to B) 
+
+Actual: move (plate A to D) 
+ Predicted: move (plate A to D) 
+
+Actual: move (pot C to D) 
+ Predicted: move (pot C to D) 
+
+Warning: No valid actions from this state!
+Actual: stop 
+ Predicted: None
