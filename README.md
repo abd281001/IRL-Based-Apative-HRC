@@ -1,7 +1,7 @@
 # IRL-Based-Apative-HRC
 
 
-The main code is IRL.ipynb. The initial output for the first train demo is the cell training and testing. The adaptive IRL is shown working in the cell named Adaptive IRL loop 
+The main code is HRC.ipynb. The testing is divided into phases. Phase 1 initializes with 1 demo. Phase 2 is different demonstrations shown to the robot for testing. Results and graphs are in last 2 cells. 
 
 ## Requirements
 
